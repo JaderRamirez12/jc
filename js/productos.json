@@ -1,0 +1,152 @@
+[
+    {
+        "id": "P0001",
+        "titulo": "Polo 01",
+        "imagen": "./img/polos/polo1.png",
+        "categoria": {
+            "nombre": "Polos",
+            "id": "polos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "P0002",
+        "titulo": "Polo 02",
+        "imagen": "./img/polos/polo2.png",
+        "categoria": {
+            "nombre": "Polos",
+            "id": "polos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "P0003",
+        "titulo": "Polo 03",
+        "imagen": "./img/polos/polo3.png",
+        "categoria": {
+            "nombre": "Polos",
+            "id": "polos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "P0004",
+        "titulo": "Polo 04",
+        "imagen": "./img/polos/polo4.png",
+        "categoria": {
+            "nombre": "Polos",
+            "id": "polos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "P0005",
+        "titulo": "Polo 05",
+        "imagen": "./img/polos/polo5.png",
+        "categoria": {
+            "nombre": "Polos",
+            "id": "polos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "C0001",
+        "titulo": "Camiseta 01",
+        "imagen": "./img/camisetas/camiseta1.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "C0002",
+        "titulo": "Camiseta 02",
+        "imagen": "./img/camisetas/camiseta2.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "C0003",
+        "titulo": "Camiseta 03",
+        "imagen": "./img/camisetas/camiseta3.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "C0004",
+        "titulo": "Camiseta 04",
+        "imagen": "./img/camisetas/camiseta4.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "C0005",
+        "titulo": "Camiseta 05",
+        "imagen": "./img/camisetas/camiseta5.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "CA0001",
+        "titulo": "Camisa 1",
+        "imagen": "./img/camisa/camisa1.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "CA0002",
+        "titulo": "Camisa 2",
+        "imagen": "./img/camisa/camisa2.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "CA0003",
+        "titulo": "Camisa 3",
+        "imagen": "./img/camisa/camisa3.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "CA0004",
+        "titulo": "Camisa 4",
+        "imagen": "./img/camisa/camisa4.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "CA0005",
+        "titulo": "Camisa 5",
+        "imagen": "./img/camisa/camisa5.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": 1000
+    }
+]
